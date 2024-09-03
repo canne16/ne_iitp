@@ -1,6 +1,12 @@
-## graphs/GR, stats
+# Nuclear explosions analysis in earthquake history
 
-Графики Гутенберга-Рихтера и количественных распределений в зависимости от типа магнитуды:
+## Introduction
 
-## graphs/M_c, b over years
-Изменение Mc и b по годам:
+![Barchart of number of nuclear explosions by year](https://upload.wikimedia.org/wikipedia/commons/2/27/Worldwide_nuclear_testing.png)
+
+## Data
+
+Earthquake catalogs used in this research can be accessed through links:
+
+- [ANSS catalog](https://disk.yandex.ru/d/qiA1mE9Dr3oMnw)
+- [ISC catalog](https://disk.yandex.ru/d/YQyGgQxQQyoVBQ)
