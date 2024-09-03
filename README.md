@@ -11,4 +11,4 @@ Earthquake catalogs used in this research can be accessed through links:
 - [ANSS catalog](https://disk.yandex.ru/d/qiA1mE9Dr3oMnw)
 - [ISC catalog](https://disk.yandex.ru/d/YQyGgQxQQyoVBQ)
 
-Downloaded files should be placed in [src folder](src\).
+Downloaded files should be placed in [src folder](src/).
